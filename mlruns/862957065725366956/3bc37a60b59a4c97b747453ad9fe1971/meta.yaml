@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/facemask/mlruns/862957065725366956/3bc37a60b59a4c97b747453ad9fe1971/artifacts
+end_time: 1744497740825
+entry_point_name: ''
+experiment_id: '862957065725366956'
+lifecycle_stage: active
+run_id: 3bc37a60b59a4c97b747453ad9fe1971
+run_name: image_size_distribution
+run_uuid: 3bc37a60b59a4c97b747453ad9fe1971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744497740299
+status: 3
+tags: []
+user_id: Ahmed

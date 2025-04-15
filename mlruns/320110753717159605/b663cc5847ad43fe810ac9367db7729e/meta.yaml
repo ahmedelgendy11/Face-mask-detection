@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/facemask/mlruns/320110753717159605/b663cc5847ad43fe810ac9367db7729e/artifacts
+end_time: 1744502227059
+entry_point_name: ''
+experiment_id: '320110753717159605'
+lifecycle_stage: active
+run_id: b663cc5847ad43fe810ac9367db7729e
+run_name: defiant-snake-652
+run_uuid: b663cc5847ad43fe810ac9367db7729e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744501800324
+status: 3
+tags: []
+user_id: Ahmed

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/facemask/mlruns/320110753717159605/9a989e862d27451c9c13e135efcd0dc5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '320110753717159605'
+lifecycle_stage: active
+run_id: 9a989e862d27451c9c13e135efcd0dc5
+run_name: nimble-fish-688
+run_uuid: 9a989e862d27451c9c13e135efcd0dc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744587720776
+status: 1
+tags: []
+user_id: Ahmed

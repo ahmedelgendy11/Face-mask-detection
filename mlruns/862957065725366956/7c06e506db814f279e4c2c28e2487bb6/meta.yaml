@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/facemask/mlruns/862957065725366956/7c06e506db814f279e4c2c28e2487bb6/artifacts
+deleted_time: 1744731932197
+end_time: 1744729059767
+entry_point_name: ''
+experiment_id: '862957065725366956'
+lifecycle_stage: deleted
+run_id: 7c06e506db814f279e4c2c28e2487bb6
+run_name: class_cooccurrence_heatmap
+run_uuid: 7c06e506db814f279e4c2c28e2487bb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744729059381
+status: 3
+tags: []
+user_id: Ahmed

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/facemask/mlruns/862957065725366956/eeca3550ad2642b29843317562156c2d/artifacts
+end_time: 1744497541389
+entry_point_name: ''
+experiment_id: '862957065725366956'
+lifecycle_stage: active
+run_id: eeca3550ad2642b29843317562156c2d
+run_name: sample_per_class
+run_uuid: eeca3550ad2642b29843317562156c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744497540741
+status: 3
+tags: []
+user_id: Ahmed

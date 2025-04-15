@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/facemask/mlruns/862957065725366956/af851cad07c948a28181ffb447879662/artifacts
+end_time: 1744719176070
+entry_point_name: ''
+experiment_id: '862957065725366956'
+lifecycle_stage: active
+run_id: af851cad07c948a28181ffb447879662
+run_name: Comparison_Plots-a-b-training
+run_uuid: af851cad07c948a28181ffb447879662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744719172251
+status: 3
+tags: []
+user_id: Ahmed

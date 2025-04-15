@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/facemask/mlruns/862957065725366956/a62876519f60420b8eb7728d7b7b44c4/artifacts
+deleted_time: 1744652919925
+end_time: 1744652305937
+entry_point_name: ''
+experiment_id: '862957065725366956'
+lifecycle_stage: deleted
+run_id: a62876519f60420b8eb7728d7b7b44c4
+run_name: YOLOv8 Face Mask Prediction
+run_uuid: a62876519f60420b8eb7728d7b7b44c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744652305482
+status: 4
+tags: []
+user_id: Ahmed

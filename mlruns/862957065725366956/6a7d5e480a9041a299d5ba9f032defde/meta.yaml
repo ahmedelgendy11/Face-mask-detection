@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/facemask/mlruns/862957065725366956/6a7d5e480a9041a299d5ba9f032defde/artifacts
+end_time: 1744717837629
+entry_point_name: ''
+experiment_id: '862957065725366956'
+lifecycle_stage: active
+run_id: 6a7d5e480a9041a299d5ba9f032defde
+run_name: results for first model befor retraining
+run_uuid: 6a7d5e480a9041a299d5ba9f032defde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744717835457
+status: 3
+tags: []
+user_id: Ahmed

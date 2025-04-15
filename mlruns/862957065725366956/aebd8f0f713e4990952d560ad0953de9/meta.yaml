@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/facemask/mlruns/862957065725366956/aebd8f0f713e4990952d560ad0953de9/artifacts
+deleted_time: 1744579290532
+end_time: 1744579160601
+entry_point_name: ''
+experiment_id: '862957065725366956'
+lifecycle_stage: deleted
+run_id: aebd8f0f713e4990952d560ad0953de9
+run_name: YOLOv8_finetune_v2
+run_uuid: aebd8f0f713e4990952d560ad0953de9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744578994438
+status: 4
+tags: []
+user_id: Ahmed
